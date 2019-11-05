@@ -1,5 +1,5 @@
 body{
-	background-color: #F4C73B;
+	background-color: greenyellow
 }
 h1{
 	font-size: 40px;
@@ -7,12 +7,12 @@ h1{
 }
 
 h2{
-	font-size: 40px;
+	font-size: 20px;
 	color: teal;
 }
 
 .big{
 	font-size: 60px;
 	text-transform: uppercase;
-	color: white;
+	color: teal;
 }
