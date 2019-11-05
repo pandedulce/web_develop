@@ -1,0 +1,18 @@
+body{
+	background-color: #F4C73B;
+}
+h1{
+	font-size: 40px;
+	color: teal;
+}
+
+h2{
+	font-size: 30px;
+	color: teal;
+}
+
+.big{
+	font-size: 60px;
+	text-transform: uppercase;
+	color: white;
+}
